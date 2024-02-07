@@ -64,7 +64,43 @@
 ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/4538cce7-c0c7-4d0e-b218-cf20fa58637a)
 
 ## Passo 8
--
+- Selecione o idioma do texto a ser utilizado (English).
+- Copie o texto, fornecido pela documentação, na caixa de texto. Ver abaixo:
+
+```
+ Tired hotel with poor service
+ The Royal Hotel, London, United Kingdom
+ 5/6/2018
+ This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
+```
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/b433b007-6ded-4a86-b71f-5f28f624d3b0)
+
+- Marque o box informativo
+- Clique em "Run"
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/04e4719f-40a8-42bc-bfe4-3585e129df80)
+
+## Passo 9
+- Resultados
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/ce157701-918c-41df-b865-40c2294916c1)
+
+- Ele traz o sentimento geral do texto
+  
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/89785bcc-f34d-46d6-a0e8-68bf51852442)
+
+- Traz também a análise de cada uma das frases
+- Ex.: Sentence 1 (basta clicar na aba da frase para abrir ou fechar)
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/e84ca617-1666-46c6-8d38-1acc393c7dab)
+
+- Ex.: Análise da Sentence 2
+  
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/6f4c0832-7914-4488-a051-badc791c9921)
+
+
+
 
 🚧
 
