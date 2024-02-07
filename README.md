@@ -99,7 +99,16 @@
   
 ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/6f4c0832-7914-4488-a051-badc791c9921)
 
+##
 
+# Análise de Inputs
+- Abaixo compartilho o resultado das frases que trouxe de exemplo em [inputs](https://github.com/giselle-ferreira/language-studio-microsoft-azure/blob/main/inputs/sentences.txt)
+
+## Sentence 1
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/f48a9ffa-7ccc-4318-b430-c2e43ad15a67)
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/ae22837f-433b-47ff-ba8b-27a16ae369b0)
 
 
 🚧
