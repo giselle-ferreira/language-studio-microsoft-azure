@@ -105,13 +105,85 @@
 - Abaixo compartilho o resultado das frases que trouxe de exemplo em [inputs](https://github.com/giselle-ferreira/language-studio-microsoft-azure/blob/main/inputs/sentences.txt)
 
 ## Sentence 1
+- Escolho o idioma, incluo a frase e inicio o teste:
 
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/f48a9ffa-7ccc-4318-b430-c2e43ad15a67)
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/36fe823d-8096-49ff-9180-f2e2ae0674d7)
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/93544242-8fef-4467-9cf2-9143fe6140f3)
 
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/ae22837f-433b-47ff-ba8b-27a16ae369b0)
+- Resultados:
+   <details>
+   <summary>Análise de Sentimento da Frase Completa</summary>
 
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/80f72209-863f-49eb-88ab-418ec338cfe9)
 
-🚧
+   </details>    
+
+   <details>
+   <summary>Análise Fragmento 1</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/af4a21b3-4590-4ffe-97e7-1e8a9e9d2142)
+
+   </details>
+   
+   <details>
+   <summary>Análise Fragmento 2</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/c18d6596-5354-4af0-b521-4919d59e2d51)
+
+   </details>
+
+   <details>
+   <summary>Análise Fragmento 3</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/3eefad6a-d6a5-48bb-96d3-93c09a53be3e)
+
+   </details>
+
+   <details>
+   <summary>Análise Fragmento 4</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/5300a216-aad8-413f-8e55-473dcbca0c31)
+
+   </details>
+
+## Sentence 2
+- Escolho o idioma, incluo a frase e inicio o teste:
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/0a4d2aea-33e9-4273-8016-f1d3c6a71422)
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/93544242-8fef-4467-9cf2-9143fe6140f3)
+
+- Resultados:
+   <details>
+   <summary>Análise de Sentimento da Frase Completa</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/262e5723-d750-4a63-9bf3-c7809bff6c7c)
+
+   </details>    
+
+   <details>
+   <summary>Análise Fragmento 1</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/456b01ec-d16e-464b-9c40-e428bf0624c5)
+
+   </details>
+   
+   <details>
+   <summary>Análise Fragmento 2</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/6f028c9b-ccad-4380-9ebf-1b2bf78b1624)
+
+   </details>
+
+   <details>
+   <summary>Análise Fragmento 3</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/e79e856e-91e2-46bf-9657-1ccb23bd306c)
+
+   </details>
+
+## Comentários
+Pude perceber que as análise são bem similares e satisfatórias, não importa o idioma que estamos trabalhando, seja inglês, português ou espanhol, confome nos exemplos adicionais que eu trouxe aqui. Não encontrei discrepâncias, e percebi que realmente é uma ferramenta poderosa para empresas no quesito de análise de satisfação dos clientes. 
+
 
 ##
 
