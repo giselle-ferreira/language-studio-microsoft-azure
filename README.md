@@ -102,7 +102,7 @@
 
 ##
 
-# Análise de Inputs
+# Análise de inputs
 - Abaixo compartilho o resultado das frases que trouxe de exemplo em [inputs](https://github.com/giselle-ferreira/language-studio-microsoft-azure/blob/main/inputs/sentences.txt)
 
 ## Sentence 1
