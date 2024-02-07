@@ -182,8 +182,44 @@
 
    </details>
 
+## Sentence 3
+- Escolho o idioma, incluo a frase e inicio o teste:
+
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/eb11d136-0c71-468d-89b8-ce8cc00405ec)
+![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/93544242-8fef-4467-9cf2-9143fe6140f3)
+
+- Resultados:
+   <details>
+   <summary>Análise de Sentimento da Frase Completa</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/1191db56-c5b1-4f6b-af99-947f94e90f45)
+
+   </details>    
+
+   <details>
+   <summary>Análise Fragmento 1</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/c095bd4e-d675-4ed4-ab9b-7f171daac016)
+
+   </details>
+   
+   <details>
+   <summary>Análise Fragmento 2</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/103dee01-90ed-41cd-a29d-e7a304f57be7)
+
+   </details>
+
+   <details>
+   <summary>Análise Fragmento 3</summary>
+
+   ![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/a48fb6d7-52f1-499f-89ff-efa37b755e7c)
+
+   </details>
+
+
 ## Comentários
-Pude perceber que as análise são bem similares e satisfatórias, não importa o idioma que estamos trabalhando, seja inglês, português ou espanhol, confome nos exemplos adicionais que eu trouxe aqui. Não encontrei discrepâncias, e percebi que realmente é uma ferramenta poderosa para empresas no quesito de análise de satisfação dos clientes. 
+Pude perceber que as análise são bem similares e satisfatórias, não importa o idioma que estamos trabalhando, seja inglês, português, espanhol ou francês, confome nos exemplos adicionais que eu trouxe aqui. Não encontrei discrepâncias, e percebi que realmente é uma ferramenta poderosa para empresas no quesito de análise de satisfação dos clientes. 
 
 
 ##
